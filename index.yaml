@@ -3,12 +3,12 @@ entries:
   splunk-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-31T12:14:42.980613+05:30"
+    created: "2022-10-31T12:49:13.887366+05:30"
     description: A Helm chart for Kubernetes
     digest: c3cb16666b3c4524e8a512b4ab9a2793a32647b4b62f385bf2540ed28bc59fd5
     name: splunk-chart
     type: application
     urls:
-    - splunk-chart-0.1.0.tgz
+    - https://zarekarkiran.github.io/splunk/splunk-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-31T12:14:42.975931+05:30"
+generated: "2022-10-31T12:49:13.880531+05:30"
